@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWMDmPDWxxUxrZIwdI3TQHUmyxXfBt378/fW0lp0q01kt56T6zKqfuryBtisB8KdSen68MTZBfe4/Be1j3ogXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projekty\\WPF\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lunie\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\lunie\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\lunie\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\lunie\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
