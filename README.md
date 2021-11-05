@@ -15,6 +15,7 @@ The purpose of the project was to get to know WPF technology for the first time
 * .NET Core 5
 * Windows Presentation Foundation (WPF)
 * XAML
+* MahApps.Metro 2.4.9
 * MVVM pattern
 
 ## Features
